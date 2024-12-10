@@ -16,3 +16,8 @@ Game2048Contoller: this is the runner and its only job is to call play() in Boar
 Board is a gamelogic host. This class extends JFrame to display the game and implements keylistner to interact with the player.
 KeyPressed method in this class has switch case that call GameLogic. Based on the pressed key, the different method in Gamelogic are called.
 GameLogic is a logic that numbers in cells merge and move.
+
+DEMO
+
+https://github.com/user-attachments/assets/593fdf10-3e07-4260-a0c5-1f09609e8452
+
