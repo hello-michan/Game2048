@@ -19,5 +19,7 @@ GameLogic is a logic that numbers in cells merge and move.
 
 DEMO
 
-https://github.com/user-attachments/assets/593fdf10-3e07-4260-a0c5-1f09609e8452
+
+
+https://github.com/user-attachments/assets/607109a2-88d1-4872-9077-67e65c844d6a
 
